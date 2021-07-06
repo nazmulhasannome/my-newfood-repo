@@ -19,8 +19,12 @@ h1{
 .link-button{
     text-decoration: none;
     background-image: linear-gradient(tomato, orange);
-    border-radius: 10px;
+    border-radius: 20px;
     padding: 10px 40px;
     color: white;
     font-weight: 700;
+}
+.back-image{
+    background-image: url(images/shapes/Frame\ 57.jpg);
+    background-repeat: no-repeat;
 }
